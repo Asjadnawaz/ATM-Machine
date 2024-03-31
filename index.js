@@ -9,6 +9,7 @@ console.log(`======================
 `);
 console.log(`You Current Balance is ${mybalance}
 `);
+console.log(`Pin* 1252`);
 let pinanswer = await inquirer.prompt([
     {
         message: "Please Enter your Pin:",
